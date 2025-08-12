@@ -1,3 +1,3 @@
 # portfolio_from_scrach
 
-[This is my portfolio](https://sayyid-uwais-ops.github.io/portfolio_from_scrach/portfolio.html)
+[This is my portfolio](http://127.0.0.1:5500/portfolio.html)
