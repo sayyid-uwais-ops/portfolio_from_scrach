@@ -1,7 +1,5 @@
 # portfolio_from_scrach
 
-[This is my portfolio](http://127.0.0.1:5500/portfolio.html)
-
 💼 Personal Portfolio Website
 
 A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my profile, skills, and projects.
@@ -97,7 +95,8 @@ in any browser
 
 📸 Screenshots
 
-(Add screenshots of your portfolio here after uploading to GitHub)
+<img width="1900" height="974" alt="Screenshot 2026-03-19 144055" src="https://github.com/user-attachments/assets/6f50c4a2-8540-4b22-808e-7c9893d39108" />
+
 
 🔮 Future Improvements
 
@@ -113,7 +112,7 @@ in any browser
 
 🌍 Live Demo
 
-👉 (Add your deployed link here)
+👉 [This is my portfolio](http://127.0.0.1:5500/portfolio.html)
 
 🤝 Contributing
 
