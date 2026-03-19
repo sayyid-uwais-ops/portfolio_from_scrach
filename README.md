@@ -83,7 +83,7 @@ Designed for future backend integration
 
 Clone the repository:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/sayyid-uwais-ops/portfolio_from_scrach
 
 Open the folder
 
