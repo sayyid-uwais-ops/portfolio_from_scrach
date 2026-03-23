@@ -37,7 +37,7 @@ Font Awesome – Icons
 
 📂 Project Structure
 📁 portfolio-website
-│── portfolio.html          # Home page
+│── index.html              # Home page
 │── portfolio_about.html    # About page
 │── project.html            # Projects page
 │── contact.html            # Contact page
@@ -83,7 +83,7 @@ Designed for future backend integration
 
 Clone the repository:
 
-git clone https://github.com/sayyid-uwais-ops/portfolio_from_scrach
+git clone https://sayyid-uwais-ops.github.io/Portfolio/
 
 Open the folder
 
